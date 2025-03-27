@@ -1,4 +1,4 @@
-package rest_assured;
+package phonebook_tests.rest_assured;
 
 import io.restassured.http.ContentType;
 import org.testng.annotations.Test;

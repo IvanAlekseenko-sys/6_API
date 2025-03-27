@@ -1,7 +1,6 @@
-package rest_assured;
+package phonebook_tests.rest_assured;
 
 import com.google.gson.Gson;
-import io.restassured.http.ContentType;
 import org.testng.annotations.Test;
 import phonebook.dto.ContactDto;
 
